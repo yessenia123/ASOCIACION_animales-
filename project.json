@@ -1,0 +1,35 @@
+{
+  "title": "asociacion_ingles",
+  "date": "25/10/23",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "asociacion_ingles.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 1,
+  "mediaFiles": 9,
+  "totalSize": 201277,
+  "files": [
+    "asociacion_ingles.jclic",
+    "asociacion_ingles.jclic.js",
+    "caballo-resized.jpg",
+    "favicon.ico",
+    "gato-resized.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "perro-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "tigre.jpg"
+  ]
+}
